@@ -10,7 +10,8 @@ As imagens utilizadas estão na pasta `inputs/`.
 Os arquivos gerados pelo reconhecimento de texto estão na pasta `output/`.
 
 ## 📷 Prints do Processo
-(insira aqui algumas imagens do processo e resultados)
+![image](https://github.com/user-attachments/assets/03eacae2-0c56-4108-bbaa-b4fdef73db91)
+
 
 ## 🔍 Insights
 - O reconhecimento de texto funcionou melhor com imagens de alta qualidade.
