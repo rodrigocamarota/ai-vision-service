@@ -19,5 +19,5 @@ Os arquivos gerados pelo reconhecimento de texto estão na pasta `output/`.
 
 
 ## 🔍 Insights
-- O reconhecimento de texto funcionou mesmo com imagens de baixa qualidade.
+- O reconhecimento de texto funcionou melhor com imagens de alta qualidade. Porém, surpreendentemente ele ainda consegue identificar muitos textos.
 
