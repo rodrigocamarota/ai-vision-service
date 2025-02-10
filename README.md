@@ -1,4 +1,4 @@
-echo "# Reconhecimento de Texto
+# Reconhecimento de Texto
 
 ## 📌 Descrição
 Este projeto utiliza técnicas de OCR para reconhecer texto em imagens.
