@@ -13,6 +13,8 @@ Os arquivos gerados pelo reconhecimento de texto estão na pasta `output/`.
 
 ![image](https://github.com/user-attachments/assets/f1828844-e21b-42ff-aeef-4993e6a8a8fc)
 
+![image](https://github.com/user-attachments/assets/77ae023f-b76b-4001-a5ee-e481719d13ab)
+
 ![image](https://github.com/user-attachments/assets/03eacae2-0c56-4108-bbaa-b4fdef73db91)
 
 
